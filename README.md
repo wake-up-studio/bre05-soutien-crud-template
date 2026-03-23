@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # bre05-soutien-crud-template
-=======
-# bre05-php-soutien5-CRUD
->>>>>>> f85db6a (Initial commit)
+>>>>>>> 0fac104 (CRUD MVC template)

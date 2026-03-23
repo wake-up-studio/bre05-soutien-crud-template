@@ -49,7 +49,7 @@ class Router {
             }
         else // pas de route je renvoie vers la home
         {
-            echo "Aucune route n'est demandée<br>";
+            $this->uc->list();
         }
     }
 }
